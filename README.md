@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 FREEAIM
+# 🎯 FREEAIM 
 
 **Aim trainer para o navegador, feito só com HTML5, CSS3 e JavaScript puro.**
 Sem instalar nada, sem framework, sem banco de dados.
